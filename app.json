@@ -1,0 +1,6 @@
+{
+  "name": "Heartland Heroku",
+  "description": "An example of using Heartland and Heroku in PHP",
+  "repository": "https://github.com/hps/heartland-heroku",
+  "addons": []
+}
